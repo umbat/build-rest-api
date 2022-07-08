@@ -1,0 +1,1724 @@
+{
+    "location": [
+        {
+            "id": "5005606",
+            "kecamatan": "Cakung",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1826",
+            "lon": "106.9477"
+        },
+        {
+            "id": "5005613",
+            "kecamatan": "CempakaPutih",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1827",
+            "lon": "106.868"
+        },
+        {
+            "id": "5005623",
+            "kecamatan": "Cengkareng",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1487",
+            "lon": "106.7353"
+        },
+        {
+            "id": "5005591",
+            "kecamatan": "Cilandak",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2845",
+            "lon": "106.8001"
+        },
+        {
+            "id": "5005630",
+            "kecamatan": "Cilincing",
+            "kabupaten": "KotaJakartaUtara",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1214",
+            "lon": "106.9477"
+        },
+        {
+            "id": "5005601",
+            "kecamatan": "Cipayung",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.3273",
+            "lon": "106.9004"
+        },
+        {
+            "id": "5005600",
+            "kecamatan": "Ciracas",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.3231",
+            "lon": "106.8709"
+        },
+        {
+            "id": "5005605",
+            "kecamatan": "DurenSawit",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2295",
+            "lon": "106.9182"
+        },
+        {
+            "id": "5005616",
+            "kecamatan": "Gambir",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.179809",
+            "lon": "106.824532"
+        },
+        {
+            "id": "5005620",
+            "kecamatan": "GrogolPetamburan",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1623",
+            "lon": "106.7883"
+        },
+        {
+            "id": "5005589",
+            "kecamatan": "Jagakarsa",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.3349",
+            "lon": "106.8237"
+        },
+        {
+            "id": "501192",
+            "kecamatan": "JakartaBarat",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.203019",
+            "lon": "106.731319"
+        },
+        {
+            "id": "501195",
+            "kecamatan": "JakartaPusat",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.176396",
+            "lon": "106.826591"
+        },
+        {
+            "id": "501193",
+            "kecamatan": "JakartaSelatan",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.293118",
+            "lon": "106.856804"
+        },
+        {
+            "id": "501191",
+            "kecamatan": "JakartaTimur",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.213599",
+            "lon": "106.901093"
+        },
+        {
+            "id": "501196",
+            "kecamatan": "JakartaUtara",
+            "kabupaten": "KotaJakartaUtara",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.126218",
+            "lon": "106.865559"
+        },
+        {
+            "id": "5005604",
+            "kecamatan": "Jatinegara",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2307",
+            "lon": "106.8827"
+        },
+        {
+            "id": "5005612",
+            "kecamatan": "JoharBaru",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1868",
+            "lon": "106.8577"
+        },
+        {
+            "id": "5005624",
+            "kecamatan": "Kalideres",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1343",
+            "lon": "106.7058"
+        },
+        {
+            "id": "5005594",
+            "kecamatan": "KebayoranBaru",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2436",
+            "lon": "106.8001"
+        },
+        {
+            "id": "5005593",
+            "kecamatan": "KebayoranLama",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2444",
+            "lon": "106.7765"
+        },
+        {
+            "id": "5005618",
+            "kecamatan": "KebonJeruk",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1835",
+            "lon": "106.7647"
+        },
+        {
+            "id": "5005629",
+            "kecamatan": "KelapaGading",
+            "kabupaten": "KotaJakartaUtara",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1605",
+            "lon": "106.9055"
+        },
+        {
+            "id": "5005614",
+            "kecamatan": "Kemayoran",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1604",
+            "lon": "106.8473"
+        },
+        {
+            "id": "5005617",
+            "kecamatan": "Kembangan",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1912",
+            "lon": "106.7423"
+        },
+        {
+            "id": "501194",
+            "kecamatan": "KepulauanSeribu",
+            "kabupaten": "Kab.KepulauanSeribu",
+            "provinsi": "DKIJakarta",
+            "lat": "-5.987607",
+            "lon": "106.825562"
+        },
+        {
+            "id": "5005587",
+            "kecamatan": "KepulauanSeribuSelatan",
+            "kabupaten": "Kab.KepulauanSeribu",
+            "provinsi": "DKIJakarta",
+            "lat": "-5.988589",
+            "lon": "106.820068"
+        },
+        {
+            "id": "5005588",
+            "kecamatan": "KepulauanSeribuUtara",
+            "kabupaten": "Kab.KepulauanSeribu",
+            "provinsi": "DKIJakarta",
+            "lat": "-5.74611111111111",
+            "lon": "106.615347222222"
+        },
+        {
+            "id": "5005628",
+            "kecamatan": "Koja",
+            "kabupaten": "KotaJakartaUtara",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1177",
+            "lon": "106.9063"
+        },
+        {
+            "id": "5005603",
+            "kecamatan": "KramatJati",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2826",
+            "lon": "106.8591"
+        },
+        {
+            "id": "5005602",
+            "kecamatan": "Makasar",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2712",
+            "lon": "106.8945"
+        },
+        {
+            "id": "5005595",
+            "kecamatan": "MampangPrapatan",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2506",
+            "lon": "106.8208"
+        },
+        {
+            "id": "5005608",
+            "kecamatan": "Matraman",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2033",
+            "lon": "106.8621"
+        },
+        {
+            "id": "5005610",
+            "kecamatan": "Menteng",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.194",
+            "lon": "106.8326"
+        },
+        {
+            "id": "5005626",
+            "kecamatan": "Pademangan",
+            "kabupaten": "KotaJakartaUtara",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1326",
+            "lon": "106.8385"
+        },
+        {
+            "id": "5005619",
+            "kecamatan": "Palmerah",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1901",
+            "lon": "106.7972"
+        },
+        {
+            "id": "5005596",
+            "kecamatan": "Pancoran",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2523",
+            "lon": "106.8473"
+        },
+        {
+            "id": "5005590",
+            "kecamatan": "PasarMinggu",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.294",
+            "lon": "106.8237"
+        },
+        {
+            "id": "5005599",
+            "kecamatan": "PasarRebo",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.3262",
+            "lon": "106.8562"
+        },
+        {
+            "id": "5005625",
+            "kecamatan": "Penjaringan",
+            "kabupaten": "KotaJakartaUtara",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1267",
+            "lon": "106.7824"
+        },
+        {
+            "id": "5005592",
+            "kecamatan": "Pesanggrahan",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2474",
+            "lon": "106.7618"
+        },
+        {
+            "id": "5005607",
+            "kecamatan": "PuloGadung",
+            "kabupaten": "KotaJakartaTimur",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1895",
+            "lon": "106.8945"
+        },
+        {
+            "id": "5005615",
+            "kecamatan": "SawahBesar",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1532",
+            "lon": "106.8326"
+        },
+        {
+            "id": "5005611",
+            "kecamatan": "Senen",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1935",
+            "lon": "106.8503"
+        },
+        {
+            "id": "5005598",
+            "kecamatan": "SetiaBudi",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2196",
+            "lon": "106.8326"
+        },
+        {
+            "id": "5005622",
+            "kecamatan": "TamanSari",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.1485",
+            "lon": "106.8208"
+        },
+        {
+            "id": "5005621",
+            "kecamatan": "Tambora",
+            "kabupaten": "KotaJakartaBarat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.149",
+            "lon": "106.8031"
+        },
+        {
+            "id": "5005609",
+            "kecamatan": "TanahAbang",
+            "kabupaten": "KotaJakartaPusat",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2024",
+            "lon": "106.8119"
+        },
+        {
+            "id": "5005627",
+            "kecamatan": "TanjungPriok",
+            "kabupaten": "KotaJakartaUtara",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.095494",
+            "lon": "106.890450"
+        },
+        {
+            "id": "5005597",
+            "kecamatan": "Tebet",
+            "kabupaten": "KotaJakartaSelatan",
+            "provinsi": "DKIJakarta",
+            "lat": "-6.2319",
+            "lon": "106.8473"
+        },
+        {
+            "id": "5008825",
+            "kecamatan": "Angsana",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.608",
+            "lon": "105.783"
+        },
+        {
+            "id": "5008861",
+            "kecamatan": "Anyer",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.094",
+            "lon": "105.887"
+        },
+        {
+            "id": "5008890",
+            "kecamatan": "Balaraja",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.157",
+            "lon": "106.418"
+        },
+        {
+            "id": "5008891",
+            "kecamatan": "BandaraBudiartoCurug",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.237",
+            "lon": "106.531"
+        },
+        {
+            "id": "5008892",
+            "kecamatan": "BandaraSoekarno-Hatta",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.194",
+            "lon": "106.65"
+        },
+        {
+            "id": "5008862",
+            "kecamatan": "Bandung",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.224",
+            "lon": "106.308"
+        },
+        {
+            "id": "5008826",
+            "kecamatan": "Banjar",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.372",
+            "lon": "106.104"
+        },
+        {
+            "id": "5008797",
+            "kecamatan": "Banjarsari",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.557",
+            "lon": "105.988"
+        },
+        {
+            "id": "5008863",
+            "kecamatan": "Baros",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.216",
+            "lon": "106.133"
+        },
+        {
+            "id": "5008776",
+            "kecamatan": "Batuceper",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.16",
+            "lon": "106.67"
+        },
+        {
+            "id": "5008798",
+            "kecamatan": "Bayah",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.933",
+            "lon": "106.244"
+        },
+        {
+            "id": "5008777",
+            "kecamatan": "Benda",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.136",
+            "lon": "106.671"
+        },
+        {
+            "id": "5008864",
+            "kecamatan": "Binuang",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.13",
+            "lon": "106.346"
+        },
+        {
+            "id": "5002244",
+            "kecamatan": "Binuangen",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.837508",
+            "lon": "105.889063"
+        },
+        {
+            "id": "5002208",
+            "kecamatan": "Bojonegara",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-5.979753",
+            "lon": "106.092739"
+        },
+        {
+            "id": "5008827",
+            "kecamatan": "Bojong",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.442",
+            "lon": "105.996"
+        },
+        {
+            "id": "5008799",
+            "kecamatan": "Bojongmanik",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.585",
+            "lon": "106.166"
+        },
+        {
+            "id": "5008828",
+            "kecamatan": "Cadasari",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.263",
+            "lon": "106.13"
+        },
+        {
+            "id": "5008866",
+            "kecamatan": "Carenang",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.085",
+            "lon": "106.318"
+        },
+        {
+            "id": "5002209",
+            "kecamatan": "Carita",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.315128",
+            "lon": "105.843487"
+        },
+        {
+            "id": "5008800",
+            "kecamatan": "Cibadak",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.341",
+            "lon": "106.189"
+        },
+        {
+            "id": "5008830",
+            "kecamatan": "Cibaliung",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.716",
+            "lon": "105.706"
+        },
+        {
+            "id": "5008801",
+            "kecamatan": "Cibeber",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-6.86",
+            "lon": "106.304"
+        },
+        {
+            "id": "5008762",
+            "kecamatan": "Cibeber",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.047",
+            "lon": "106.053"
+        },
+        {
+            "id": "5008831",
+            "kecamatan": "Cibitung",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.784",
+            "lon": "105.66"
+        },
+        {
+            "id": "5008778",
+            "kecamatan": "Cibodas",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.202",
+            "lon": "106.604"
+        },
+        {
+            "id": "5008802",
+            "kecamatan": "Cigemblong",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.75",
+            "lon": "106.039"
+        },
+        {
+            "id": "5008832",
+            "kecamatan": "Cigeulis",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.615",
+            "lon": "105.615"
+        },
+        {
+            "id": "5008803",
+            "kecamatan": "Cihara",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.83",
+            "lon": "106.043"
+        },
+        {
+            "id": "5008804",
+            "kecamatan": "Cijaku",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.705",
+            "lon": "106.07"
+        },
+        {
+            "id": "5008867",
+            "kecamatan": "Cikande",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.183",
+            "lon": "106.358"
+        },
+        {
+            "id": "5008833",
+            "kecamatan": "Cikedal",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.384",
+            "lon": "105.886"
+        },
+        {
+            "id": "5008868",
+            "kecamatan": "Cikeusal",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.188",
+            "lon": "105.999"
+        },
+        {
+            "id": "5008834",
+            "kecamatan": "Cikeusik",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.725",
+            "lon": "105.873"
+        },
+        {
+            "id": "5008805",
+            "kecamatan": "Cikulur",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.395",
+            "lon": "106.077"
+        },
+        {
+            "id": "5008893",
+            "kecamatan": "Cikupa",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.218",
+            "lon": "106.513"
+        },
+        {
+            "id": "5008779",
+            "kecamatan": "Ciledug",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.239",
+            "lon": "106.705"
+        },
+        {
+            "id": "5008806",
+            "kecamatan": "Cileles",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.505",
+            "lon": "106.085"
+        },
+        {
+            "id": "5008807",
+            "kecamatan": "Cilograng",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.919",
+            "lon": "106.309"
+        },
+        {
+            "id": "5008835",
+            "kecamatan": "Cimanggu",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.66",
+            "lon": "105.64"
+        },
+        {
+            "id": "5008836",
+            "kecamatan": "Cimanuk",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.35",
+            "lon": "106.044"
+        },
+        {
+            "id": "5008808",
+            "kecamatan": "Cimarga",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.424",
+            "lon": "106.235"
+        },
+        {
+            "id": "5008869",
+            "kecamatan": "Cinangka",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.174",
+            "lon": "105.885"
+        },
+        {
+            "id": "5008870",
+            "kecamatan": "Ciomas",
+            "kabupaten": "KotaSerang",
+            "provinsi": "Banten",
+            "lat": "-6.244",
+            "lon": "106.028"
+        },
+        {
+            "id": "5008809",
+            "kecamatan": "Cipanas",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.562",
+            "lon": "106.303"
+        },
+        {
+            "id": "5008837",
+            "kecamatan": "Cipeucang",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.393",
+            "lon": "105.999"
+        },
+        {
+            "id": "5008770",
+            "kecamatan": "CipocokJaya",
+            "kabupaten": "KotaSerang",
+            "provinsi": "Banten",
+            "lat": "-6.151",
+            "lon": "106.152"
+        },
+        {
+            "id": "5008780",
+            "kecamatan": "Cipondoh",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.186",
+            "lon": "106.685"
+        },
+        {
+            "id": "5008790",
+            "kecamatan": "Ciputat",
+            "kabupaten": "KotaTangerangSelatan",
+            "provinsi": "Banten",
+            "lat": "-6.292",
+            "lon": "106.734"
+        },
+        {
+            "id": "5008791",
+            "kecamatan": "CiputatTimur",
+            "kabupaten": "KotaTangerangSelatan",
+            "provinsi": "Banten",
+            "lat": "-6.238",
+            "lon": "106.696"
+        },
+        {
+            "id": "5008810",
+            "kecamatan": "Cirinten",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.632",
+            "lon": "106.077"
+        },
+        {
+            "id": "501597",
+            "kecamatan": "Ciruas",
+            "kabupaten": "KotaSerang",
+            "provinsi": "Banten",
+            "lat": "-6.112556",
+            "lon": "106.224722"
+        },
+        {
+            "id": "5008871",
+            "kecamatan": "Ciruas",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.122",
+            "lon": "106.236"
+        },
+        {
+            "id": "5008838",
+            "kecamatan": "Cisata",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.42",
+            "lon": "105.92"
+        },
+        {
+            "id": "5008894",
+            "kecamatan": "Cisauk",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.33",
+            "lon": "106.64"
+        },
+        {
+            "id": "5008895",
+            "kecamatan": "Cisoka",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.311",
+            "lon": "106.572"
+        },
+        {
+            "id": "5008764",
+            "kecamatan": "Citangkil",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-6.013",
+            "lon": "106.01"
+        },
+        {
+            "id": "5008765",
+            "kecamatan": "Ciwandan",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-6.028",
+            "lon": "105.963"
+        },
+        {
+            "id": "5008896",
+            "kecamatan": "Curug",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.237",
+            "lon": "106.531"
+        },
+        {
+            "id": "5008811",
+            "kecamatan": "Curugbitung",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.444",
+            "lon": "106.33"
+        },
+        {
+            "id": "5008766",
+            "kecamatan": "Grogol",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-5.977",
+            "lon": "106.016"
+        },
+        {
+            "id": "5008897",
+            "kecamatan": "Gunungkaler",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.093",
+            "lon": "106.375"
+        },
+        {
+            "id": "5002205",
+            "kecamatan": "Gunungkencana",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.585489",
+            "lon": "106.078663"
+        },
+        {
+            "id": "5008872",
+            "kecamatan": "Gunungsari",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.161",
+            "lon": "106.039"
+        },
+        {
+            "id": "5008898",
+            "kecamatan": "Jambe",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.324",
+            "lon": "106.497"
+        },
+        {
+            "id": "5008781",
+            "kecamatan": "Jatiuwung",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.2",
+            "lon": "106.576"
+        },
+        {
+            "id": "5008873",
+            "kecamatan": "Jawilan",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.282",
+            "lon": "106.351"
+        },
+        {
+            "id": "5008899",
+            "kecamatan": "Jayanti",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.204",
+            "lon": "106.396"
+        },
+        {
+            "id": "5008839",
+            "kecamatan": "Jiput",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.323",
+            "lon": "105.887"
+        },
+        {
+            "id": "5008767",
+            "kecamatan": "Jombang",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-6.009",
+            "lon": "106.065"
+        },
+        {
+            "id": "5002207",
+            "kecamatan": "Kab.Lebak",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.526141",
+            "lon": "106.197281"
+        },
+        {
+            "id": "5008840",
+            "kecamatan": "Kaduhejo",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.31",
+            "lon": "106.051"
+        },
+        {
+            "id": "5008813",
+            "kecamatan": "Kalanganyar",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.384",
+            "lon": "106.198"
+        },
+        {
+            "id": "5008841",
+            "kecamatan": "KarangTanjung",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.287",
+            "lon": "106.118"
+        },
+        {
+            "id": "5008782",
+            "kecamatan": "Karangtengah",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.209",
+            "lon": "106.71"
+        },
+        {
+            "id": "5008783",
+            "kecamatan": "Karawaci",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.159",
+            "lon": "106.628"
+        },
+        {
+            "id": "5008772",
+            "kecamatan": "Kasemen",
+            "kabupaten": "KotaSerang",
+            "provinsi": "Banten",
+            "lat": "-6.079",
+            "lon": "106.188"
+        },
+        {
+            "id": "5008900",
+            "kecamatan": "KelapaDua",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.239",
+            "lon": "106.611"
+        },
+        {
+            "id": "5008901",
+            "kecamatan": "Kemiri",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.077",
+            "lon": "106.464"
+        },
+        {
+            "id": "5008874",
+            "kecamatan": "Kibin",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.163",
+            "lon": "106.318"
+        },
+        {
+            "id": "5008875",
+            "kecamatan": "Kopo",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.295",
+            "lon": "106.379"
+        },
+        {
+            "id": "5008842",
+            "kecamatan": "Koroncong",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.275",
+            "lon": "106.162"
+        },
+        {
+            "id": "5008902",
+            "kecamatan": "Kosambi",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.077",
+            "lon": "106.695"
+        },
+        {
+            "id": "501171",
+            "kecamatan": "KotaCilegon",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-6.022775",
+            "lon": "106.052742"
+        },
+        {
+            "id": "5002333",
+            "kecamatan": "KotaTangerang",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.175457",
+            "lon": "106.636047"
+        },
+        {
+            "id": "5008876",
+            "kecamatan": "Kragilan",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.132",
+            "lon": "106.274"
+        },
+        {
+            "id": "5008877",
+            "kecamatan": "Kramatwatu",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.061",
+            "lon": "106.131"
+        },
+        {
+            "id": "5008903",
+            "kecamatan": "Kresek",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.14",
+            "lon": "106.403"
+        },
+        {
+            "id": "5008904",
+            "kecamatan": "Kronjo",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.056",
+            "lon": "106.426"
+        },
+        {
+            "id": "5002203",
+            "kecamatan": "Labuan",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.393138",
+            "lon": "105.829496"
+        },
+        {
+            "id": "5008843",
+            "kecamatan": "Labuan",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.368",
+            "lon": "105.835"
+        },
+        {
+            "id": "5008784",
+            "kecamatan": "Larangan",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.238",
+            "lon": "106.733"
+        },
+        {
+            "id": "5008814",
+            "kecamatan": "LebakGedong",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.615",
+            "lon": "106.351"
+        },
+        {
+            "id": "5008905",
+            "kecamatan": "Legok",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.307",
+            "lon": "106.571"
+        },
+        {
+            "id": "5008815",
+            "kecamatan": "Leuwidamar",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.509",
+            "lon": "106.204"
+        },
+        {
+            "id": "5008816",
+            "kecamatan": "Maja",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.371",
+            "lon": "106.288"
+        },
+        {
+            "id": "5008844",
+            "kecamatan": "Majasari",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.325",
+            "lon": "106.1"
+        },
+        {
+            "id": "5002206",
+            "kecamatan": "Malingping",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.774739",
+            "lon": "105.951462"
+        },
+        {
+            "id": "5008817",
+            "kecamatan": "Malingping",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.776",
+            "lon": "106.011"
+        },
+        {
+            "id": "5008879",
+            "kecamatan": "Mancak",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.105",
+            "lon": "105.98"
+        },
+        {
+            "id": "5008845",
+            "kecamatan": "Mandalawangi",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.311",
+            "lon": "105.906"
+        },
+        {
+            "id": "5008906",
+            "kecamatan": "Mauk",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.081",
+            "lon": "106.542"
+        },
+        {
+            "id": "5008907",
+            "kecamatan": "Mekarbaru",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.053",
+            "lon": "106.383"
+        },
+        {
+            "id": "5008846",
+            "kecamatan": "Mekarjaya",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.393",
+            "lon": "106.068"
+        },
+        {
+            "id": "5008847",
+            "kecamatan": "Menes",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.377",
+            "lon": "105.92"
+        },
+        {
+            "id": "5008818",
+            "kecamatan": "Muncang",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.546",
+            "lon": "106.289"
+        },
+        {
+            "id": "5008848",
+            "kecamatan": "Munjul",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.632",
+            "lon": "105.871"
+        },
+        {
+            "id": "5008785",
+            "kecamatan": "Neglasari",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.143",
+            "lon": "106.623"
+        },
+        {
+            "id": "5008880",
+            "kecamatan": "Pabuaran",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.194",
+            "lon": "106.089"
+        },
+        {
+            "id": "5008881",
+            "kecamatan": "Padarincang",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.22",
+            "lon": "105.933"
+        },
+        {
+            "id": "5008908",
+            "kecamatan": "Pagedangan",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.293",
+            "lon": "106.62"
+        },
+        {
+            "id": "5008849",
+            "kecamatan": "Pagelaran",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.418",
+            "lon": "105.86"
+        },
+        {
+            "id": "5008909",
+            "kecamatan": "Pakuhaji",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.054",
+            "lon": "106.605"
+        },
+        {
+            "id": "5008882",
+            "kecamatan": "Pamarayan",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.264",
+            "lon": "106.29"
+        },
+        {
+            "id": "5008792",
+            "kecamatan": "Pamulang",
+            "kabupaten": "KotaTangerangSelatan",
+            "provinsi": "Banten",
+            "lat": "-6.342",
+            "lon": "106.735"
+        },
+        {
+            "id": "501172",
+            "kecamatan": "Pandeglang",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.303889",
+            "lon": "106.09"
+        },
+        {
+            "id": "5008850",
+            "kecamatan": "Pandeglang",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.311",
+            "lon": "106.106"
+        },
+        {
+            "id": "5008819",
+            "kecamatan": "Panggarangan",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.831",
+            "lon": "106.162"
+        },
+        {
+            "id": "5008851",
+            "kecamatan": "Panimbang",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.504",
+            "lon": "105.815"
+        },
+        {
+            "id": "5008910",
+            "kecamatan": "Panongan",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.279",
+            "lon": "106.526"
+        },
+        {
+            "id": "5002221",
+            "kecamatan": "PantaiMabak",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "WisataLokasi",
+            "lat": "-5.979412",
+            "lon": "105.980473"
+        },
+        {
+            "id": "5008852",
+            "kecamatan": "PantaiTanjungLesung",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.504",
+            "lon": "105.815"
+        },
+        {
+            "id": "5008911",
+            "kecamatan": "Pasarkemis",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.167",
+            "lon": "106.505"
+        },
+        {
+            "id": "5008853",
+            "kecamatan": "Patia",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.479",
+            "lon": "105.879"
+        },
+        {
+            "id": "5002201",
+            "kecamatan": "PelabuhanMerak",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-5.933399",
+            "lon": "106.001158"
+        },
+        {
+            "id": "5008786",
+            "kecamatan": "Periuk",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.167",
+            "lon": "106.595"
+        },
+        {
+            "id": "5008883",
+            "kecamatan": "Petir",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.21",
+            "lon": "106.2"
+        },
+        {
+            "id": "5008854",
+            "kecamatan": "Picung",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.497",
+            "lon": "105.951"
+        },
+        {
+            "id": "5008787",
+            "kecamatan": "Pinang",
+            "kabupaten": "KotaTangerang",
+            "provinsi": "Banten",
+            "lat": "-6.216",
+            "lon": "106.667"
+        },
+        {
+            "id": "5008793",
+            "kecamatan": "PondokAren",
+            "kabupaten": "KotaTangerangSelatan",
+            "provinsi": "Banten",
+            "lat": "-6.25",
+            "lon": "106.76"
+        },
+        {
+            "id": "5008884",
+            "kecamatan": "Pontang",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.029",
+            "lon": "106.263"
+        },
+        {
+            "id": "5008885",
+            "kecamatan": "PuloAmpel",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-5.913",
+            "lon": "106.085"
+        },
+        {
+            "id": "5008768",
+            "kecamatan": "Pulomerak",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-5.921",
+            "lon": "106.02"
+        },
+        {
+            "id": "5008855",
+            "kecamatan": "Pulosari",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.334",
+            "lon": "105.94"
+        },
+        {
+            "id": "5008769",
+            "kecamatan": "Purwakarta",
+            "kabupaten": "KotaCilegon",
+            "provinsi": "Banten",
+            "lat": "-5.984",
+            "lon": "106.046"
+        },
+        {
+            "id": "5008912",
+            "kecamatan": "Rajeg",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.115",
+            "lon": "106.507"
+        },
+        {
+            "id": "501173",
+            "kecamatan": "Rangkasbitung",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.355904",
+            "lon": "106.248779"
+        },
+        {
+            "id": "5008821",
+            "kecamatan": "Sajira",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.488",
+            "lon": "106.372"
+        },
+        {
+            "id": "5008856",
+            "kecamatan": "Saketi",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.409",
+            "lon": "105.972"
+        },
+        {
+            "id": "5008913",
+            "kecamatan": "Sepatan",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.117",
+            "lon": "106.584"
+        },
+        {
+            "id": "5008914",
+            "kecamatan": "SepatanTimur",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.118",
+            "lon": "106.607"
+        },
+        {
+            "id": "501174",
+            "kecamatan": "Serang",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.133333334",
+            "lon": "106.1667"
+        },
+        {
+            "id": "5008773",
+            "kecamatan": "Serang",
+            "kabupaten": "KotaSerang",
+            "provinsi": "Banten",
+            "lat": "-6.16",
+            "lon": "106.12"
+        },
+        {
+            "id": "5002334",
+            "kecamatan": "Serpong",
+            "kabupaten": "KotaTangerangSelatan",
+            "provinsi": "Banten",
+            "lat": "-6.319905",
+            "lon": "106.664286"
+        },
+        {
+            "id": "5008795",
+            "kecamatan": "SerpongUtara",
+            "kabupaten": "KotaTangerangSelatan",
+            "provinsi": "Banten",
+            "lat": "-6.256",
+            "lon": "106.662"
+        },
+        {
+            "id": "5008796",
+            "kecamatan": "Setu",
+            "kabupaten": "KotaTangerangSelatan",
+            "provinsi": "Banten",
+            "lat": "-6.328",
+            "lon": "106.673"
+        },
+        {
+            "id": "5008915",
+            "kecamatan": "SindangJaya",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.171",
+            "lon": "106.499"
+        },
+        {
+            "id": "5008857",
+            "kecamatan": "Sindangresmi",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.541",
+            "lon": "105.915"
+        },
+        {
+            "id": "5008822",
+            "kecamatan": "Sobang",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.56",
+            "lon": "105.77"
+        },
+        {
+            "id": "5008858",
+            "kecamatan": "Sobang",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.602",
+            "lon": "105.699"
+        },
+        {
+            "id": "5008916",
+            "kecamatan": "Solear",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.309",
+            "lon": "106.417"
+        },
+        {
+            "id": "5008917",
+            "kecamatan": "Sukadiri",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.062",
+            "lon": "106.559"
+        },
+        {
+            "id": "5008918",
+            "kecamatan": "Sukamulya",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.235",
+            "lon": "106.506"
+        },
+        {
+            "id": "5008859",
+            "kecamatan": "Sukaresmi",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.504",
+            "lon": "105.844"
+        },
+        {
+            "id": "5008860",
+            "kecamatan": "Sumur",
+            "kabupaten": "Kab.Pandeglang",
+            "provinsi": "Banten",
+            "lat": "-6.662",
+            "lon": "105.58"
+        },
+        {
+            "id": "5008774",
+            "kecamatan": "Taktakan",
+            "kabupaten": "KotaSerang",
+            "provinsi": "Banten",
+            "lat": "-6.135",
+            "lon": "106.106"
+        },
+        {
+            "id": "5008886",
+            "kecamatan": "Tanara",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.038",
+            "lon": "106.355"
+        },
+        {
+            "id": "5008919",
+            "kecamatan": "Teluknaga",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.071",
+            "lon": "106.646"
+        },
+        {
+            "id": "501176",
+            "kecamatan": "Tigaraksa",
+            "kabupaten": "Kab.Tangerang",
+            "provinsi": "Banten",
+            "lat": "-6.274860",
+            "lon": "106.480179"
+        },
+        {
+            "id": "5008887",
+            "kecamatan": "Tirtayasa",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.024",
+            "lon": "106.33"
+        },
+        {
+            "id": "5008888",
+            "kecamatan": "TunjungTeja",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.281",
+            "lon": "106.236"
+        },
+        {
+            "id": "5008775",
+            "kecamatan": "Walantaka",
+            "kabupaten": "KotaSerang",
+            "provinsi": "Banten",
+            "lat": "-6.147",
+            "lon": "106.232"
+        },
+        {
+            "id": "5008823",
+            "kecamatan": "Wanasalam",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.797",
+            "lon": "105.957"
+        },
+        {
+            "id": "5008889",
+            "kecamatan": "Waringinkurung",
+            "kabupaten": "Kab.Serang",
+            "provinsi": "Banten",
+            "lat": "-6.06",
+            "lon": "106.067"
+        },
+        {
+            "id": "5008824",
+            "kecamatan": "Warunggunung",
+            "kabupaten": "Kab.Lebak",
+            "provinsi": "Banten",
+            "lat": "-6.342",
+            "lon": "106.172"
+        }
+    ]
+}
